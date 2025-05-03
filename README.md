@@ -6,6 +6,7 @@ Este documento contém a documentação técnica do bot do Telegram para fãs da
 
 ## 🤖 Informações do Bot
 
+- **Nome do bot no telegram**: @Pantera11_bot
 - **Nome**: FURIA CS Fan Bot
 - **Username**: @FuriaCS_Fan_Bot
 
